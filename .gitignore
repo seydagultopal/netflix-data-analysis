@@ -1,0 +1,21 @@
+# Python önbellek dosyaları
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoint’leri
+.ipynb_checkpoints/
+
+# Sanal ortam klasörleri
+venv/
+env/
+.venv/
+
+# VSCode ayar klasörü
+.vscode/
+
+# System dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
